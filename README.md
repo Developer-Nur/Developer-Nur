@@ -32,13 +32,17 @@ Skills: / HTML / CSS / JavaScript / REACT.Js / Express.js / Node.js / MongoDB / 
 </p>
 
 <hr/>
+
 ## :chart_with_upwards_trend: Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Developer-Nur&show_icons=true" alt="GitHub stats" />
 </p>
 <br/>
 <hr/>
+
 ## :chart_with_upwards_trend: Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Developer-Nur" alt="GitHub streak stats" />
 </p>
