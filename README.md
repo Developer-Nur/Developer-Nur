@@ -19,11 +19,26 @@ Skills: / HTML / CSS / JavaScript / REACT.Js / Express.js / Node.js / MongoDB / 
 - 🌱 I’m currently learning <u>Next.Js,</u> 
 
 
-<div align='center'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-<img src='https://www.linkedin.com/in/developer-nur/' alt='linkedin' height='40'>
-<img src='https://twitter.com/NursWeb alt='twitter' height='40'>
-</div>
+<p align="center">
+  <a href="https://github.com/Developer-Nur">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill: white;">
+  </a>
+  <a href="https://www.linkedin.com/in/developer-nur/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="fill: white;">
+  </a>
+  <a href="https://twitter.com/NursWeb">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" style="fill: white;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40">
+  </a>
+  <a href="https://stars.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35">
+  </a>
+</p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
