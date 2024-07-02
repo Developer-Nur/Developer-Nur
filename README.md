@@ -18,7 +18,7 @@ Skills: / HTML / CSS / JavaScript / REACT.Js / Express.js / Node.js / MongoDB / 
 - 🔭 I’m currently working on this page. https://soul-mingle-ed00e.web.app 
 - 🌱 I’m currently learning <u>Next.Js,</u> 
 
-
+## :chart_with_upwards_trend: My Sicial Links
 <p align="center">
   <a href="https://github.com/Developer-Nur">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="github" height="40">
@@ -31,17 +31,9 @@ Skills: / HTML / CSS / JavaScript / REACT.Js / Express.js / Node.js / MongoDB / 
   </a>
 </p>
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nur)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Nur&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Developer-Nur/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Developer-Nur)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Nur)  
 
