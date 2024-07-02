@@ -16,7 +16,7 @@ Feel free to explore my repositories and reach out if you want to collaborate on
 Skills: / HTML / CSS / JavaScript / REACT.Js / Express.js / Node.js / MongoDB / WordPress
 
 - 🔭 I’m currently working on this page. https://soul-mingle-ed00e.web.app 
-- 🌱 I’m currently learning <u>Next.Js,</u> 
+- 🌱 I’m currently learning <b>Next.Js,</b> 
 
 ## :chart_with_upwards_trend: My Sicial Links
 <p align="center">
