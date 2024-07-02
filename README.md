@@ -18,7 +18,7 @@ Skills: / HTML / CSS / JavaScript / REACT.Js / Express.js / Node.js / MongoDB / 
 - 🔭 I’m currently working on this page. https://soul-mingle-ed00e.web.app 
 - 🌱 I’m currently learning <b>Next.Js,</b> 
 
-## :chart_with_upwards_trend: My Sicial Links
+## :chart_with_upwards_trend: My Social Links
 <p align="center">
   <a href="https://github.com/Developer-Nur">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="github" height="40">
