@@ -3,7 +3,10 @@
 </a>
 
 <br/>
-### Hi there 👋, i am Nur Mohammad Pappu 
+
+## :chart_with_upwards_trend: Overview
+Hi there 👋, I'm Nur Mohammad Pappu 
+
 I'm a passionate web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I have recently completed extensive studies in React.js and am diving deeper into the MERN stack.
 
 I have completed several full-stack projects, showcasing my skills and dedication to web development. Coding is my passion, and I am constantly eager to learn new things related to programming and technology.
@@ -13,10 +16,14 @@ Feel free to explore my repositories and reach out if you want to collaborate on
 Skills: / HTML / CSS / JavaScript / REACT.Js / Express.js / Node.js / MongoDB / WordPress
 
 - 🔭 I’m currently working on this page.https://soul-mingle-ed00e.web.app 
-- 🌱 I’m currently learning Next.Js 
+- 🌱 I’m currently learning <u>Next.Js,</u> 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Developer-Nur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/developer-nur//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NursWeb)  
+<div align='center'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+<img src='https://www.linkedin.com/in/developer-nur/' alt='linkedin' height='40'>
+<img src='https://twitter.com/NursWeb alt='twitter' height='40'>
+</div>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
